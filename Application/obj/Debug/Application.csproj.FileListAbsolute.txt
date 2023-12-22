@@ -1,0 +1,6 @@
+C:\Users\jatha\Code\Private projects\.NET-101\Application\bin\Debug\Application.exe
+C:\Users\jatha\Code\Private projects\.NET-101\Application\bin\Debug\Application.pdb
+C:\Users\jatha\Code\Private projects\.NET-101\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\jatha\Code\Private projects\.NET-101\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\jatha\Code\Private projects\.NET-101\Application\obj\Debug\Application.exe
+C:\Users\jatha\Code\Private projects\.NET-101\Application\obj\Debug\Application.pdb
